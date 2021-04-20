@@ -1,0 +1,2 @@
+UserId: 300494 Quiz1: 10 Quiz2: 15 Viva: 10 Assignment: 5 Performance & Attendance: 5 Total Marks: 45
+UserId: 300487 Quiz1: 5 Quiz2: 5 Viva: 5 Assignment: 8 Performance & Attendance: 7 Total Marks: 30
